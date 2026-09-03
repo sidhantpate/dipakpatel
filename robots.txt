@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dipakpatel.sidhantpatel.com.np/sitemap.xml
